@@ -63,9 +63,9 @@ function(qt_download_submodule_impl)
             set(sha512 SHA512 "${${_qarg_SUBMODULE}_HASH}")
         endif()
 
-        qt_get_url_filename("${_qarg_SUBMODULE}" url filename)
+        qt_get_url_filename("${_qarg_SUBMODULE}" urls filename)
         vcpkg_download_distfile(archive
-            URLS "${url}"
+            URLS ${urls}
             FILENAME "${filename}"
             ${sha512}
         )
@@ -192,6 +192,16 @@ function(qt_cmake_configure)
             QT_SYNCQT
             QT_NO_FORCE_SET_CMAKE_BUILD_TYPE
             ${_qarg_OPTIONS_MAYBE_UNUSED}
+            INPUT_bundled_xcb_xinput
+            INPUT_freetype
+            INPUT_harfbuzz
+            INPUT_libjpeg
+            INPUT_libmd4c
+            INPUT_libpng
+            INPUT_opengl
+            INPUT_openssl
+            INPUT_xcb
+            INPUT_xkbcommon
     )
     set(Z_VCPKG_CMAKE_GENERATOR "${Z_VCPKG_CMAKE_GENERATOR}" PARENT_SCOPE)
 endfunction()
