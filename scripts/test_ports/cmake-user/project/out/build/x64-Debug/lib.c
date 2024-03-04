@@ -1,0 +1,1 @@
+int lib_unused() { return 1; }

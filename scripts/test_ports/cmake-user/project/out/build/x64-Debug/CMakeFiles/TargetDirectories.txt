@@ -1,0 +1,7 @@
+C:/Users/mrangasamy/MR_DATA/SOFTWARE/CPP_LIB/vcpkg/scripts/test_ports/cmake-user/project/out/build/x64-Debug/CMakeFiles/lib.dir
+C:/Users/mrangasamy/MR_DATA/SOFTWARE/CPP_LIB/vcpkg/scripts/test_ports/cmake-user/project/out/build/x64-Debug/CMakeFiles/exe.dir
+C:/Users/mrangasamy/MR_DATA/SOFTWARE/CPP_LIB/vcpkg/scripts/test_ports/cmake-user/project/out/build/x64-Debug/CMakeFiles/install/local.dir
+C:/Users/mrangasamy/MR_DATA/SOFTWARE/CPP_LIB/vcpkg/scripts/test_ports/cmake-user/project/out/build/x64-Debug/CMakeFiles/install.dir
+C:/Users/mrangasamy/MR_DATA/SOFTWARE/CPP_LIB/vcpkg/scripts/test_ports/cmake-user/project/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/mrangasamy/MR_DATA/SOFTWARE/CPP_LIB/vcpkg/scripts/test_ports/cmake-user/project/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/mrangasamy/MR_DATA/SOFTWARE/CPP_LIB/vcpkg/scripts/test_ports/cmake-user/project/out/build/x64-Debug/CMakeFiles/list_install_components.dir
